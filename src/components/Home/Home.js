@@ -42,8 +42,8 @@ function Home() {
             <Col md={5} style={{ paddingBottom: 20 }}>
               <Lottie
                 options={defaultProps}
-                height={400}
-                width={400}
+                height={350}
+                width={350}
               />
             </Col>
           </Row>
