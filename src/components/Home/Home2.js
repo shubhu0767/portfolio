@@ -22,7 +22,7 @@ function Home2() {
               I fell in love with programming and I have at least learnt
               something, I think… 🤷‍♂️
               <br />
-              <br />I am fluent in classics like
+              <br />I am Proficient in
               <i>
                 <b className="purple"> Javascript and Java. </b>
               </i>
@@ -30,7 +30,7 @@ function Home2() {
               <br />
               My field of Interest's are building new &nbsp;
               <i>
-                <b className="purple">Web Technologies and Products </b> and
+                <b className="purple">Web Projects and Products </b> and
                 Solving Real-World problems through{" "}
                 <b className="purple">
                   Software Developement.
