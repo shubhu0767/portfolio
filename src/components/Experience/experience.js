@@ -17,12 +17,27 @@ const Experience = () => {
           className="vertical-timeline-element--work"
           contentStyle={{ background: "rgb(33, 150, 243)", color: "#fff" }}
           contentArrowStyle={{ borderRight: "7px solid  rgb(33, 150, 243)" }}
-          date="Aug 2023 - Present"
+          date="Sept 2025 - Present"
           dateClassName="mx-lg-2"
           iconStyle={{ background: "rgb(33, 150, 243)", color: "#fff" }}
           icon={<FaBriefcase />}
         >
-          <h3 className="vertical-timeline-element-title">Software Developer</h3>
+          <h3 className="vertical-timeline-element-title">Software Engineer</h3>
+          <h6 className="vertical-timeline-element-subtitle mt-1">
+            RVS Softek Solutions Pvt. Ltd.
+          </h6>
+          <p>Next.JS | TypeScript | Node JS | PostgreSQL</p>
+        </VerticalTimelineElement>
+        <VerticalTimelineElement
+          className="vertical-timeline-element--work"
+          contentStyle={{ background: "rgb(33, 150, 243)", color: "#fff" }}
+          contentArrowStyle={{ borderRight: "7px solid  rgb(33, 150, 243)" }}
+          date="Aug 2023 - Aug 2025"
+          dateClassName="mx-lg-2"
+          iconStyle={{ background: "rgb(33, 150, 243)", color: "#fff" }}
+          icon={<FaBriefcase />}
+        >
+          <h3 className="vertical-timeline-element-title">Frontend Developer</h3>
           <h6 className="vertical-timeline-element-subtitle mt-1">
             Opineworks LLP
           </h6>
